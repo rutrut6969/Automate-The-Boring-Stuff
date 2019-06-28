@@ -26,7 +26,7 @@ None
 spam = print()
 print(spam)
 #Keyword Arguments
-print('Hello' end=' ')
+print('Hello' end='')
 print('World')
 print('cat', 'dog', 'mouse' sep='&')
 
